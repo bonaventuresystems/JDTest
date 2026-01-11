@@ -1,6 +1,6 @@
 #Root of Solution - \.github\workflows\build-and-deploy.yml 
 # Name of the workflow as it appears in GitHub Actions UI
-name: JDOPSTest CI
+name: JDOPSTest CI 
 
 # Define when this workflow will run
 on:
